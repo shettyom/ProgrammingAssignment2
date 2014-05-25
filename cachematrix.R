@@ -33,7 +33,7 @@ cacheSolve <- function(x, ...){           # Ellipsis to let us pass extra parame
 }
 
 
-############# Test Cases provided by ##############################################
+############# Test Cases provided by Community TA - Gregory Horne ##############################################
 
 amatrix = makeCacheMatrix(matrix(c(1,2,3,4), nrow=2, ncol=2))
 amatrix$get()         # Returns original matrix
